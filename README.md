@@ -1,1 +1,1 @@
-# Brain-Computer Interface
+# Brain-Computer Interface Movement Decoding
